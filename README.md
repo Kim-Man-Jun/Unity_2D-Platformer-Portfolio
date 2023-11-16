@@ -11,7 +11,7 @@ Unity Engine 기반으로 제작한 2D Platformer 포트폴리오입니다.
 - 개발언어 : C#
 
 ## Project Statement
-- 링크 : 
+- 링크 : https://drive.google.com/file/d/1ldrpMs3wGFW_t-OY0otiAsgRFpqLt1sw/view?usp=drive_link
 
 ## Project Video
-- 링크 : 
+- 링크 : https://youtu.be/hijm3zdRmBU
